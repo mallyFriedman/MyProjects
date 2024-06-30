@@ -27,4 +27,4 @@ To run the project, follow these steps:
 
 ## Author
 
-Created by [Your Name](https://github.com/username).
+Created by [Mally Grinvald].
